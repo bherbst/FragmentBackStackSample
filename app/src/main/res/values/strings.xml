@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentBackStack</string>
+    <string name="add_child_screen">Add child screen</string>
+    <string name="child_fragment">I am a child fragment!</string>
+</resources>
